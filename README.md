@@ -1,6 +1,6 @@
 ## AdCreative.ai Case
 
-## <a href="adcreative-ai-case.vercel.app" target="_blank">Link</a>
+## <a href="https://adcreative-ai-case.vercel.app" target="_blank">Link</a>
 
 ### `used packages`
 
